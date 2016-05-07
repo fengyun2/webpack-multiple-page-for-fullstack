@@ -1,0 +1,33 @@
+{
+  "name": "webpack-multiple-page",
+  "version": "1.0.0",
+  "description": "webpack打包前端工程化开发多站点(多入口文件)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "multiple-page"
+  ],
+  "author": [
+    "ly",
+    "lym"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.16.1",
+    "jquery": "^2.2.3",
+    "less": "^2.6.1",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1",
+    "glob": "^7.0.3"
+  }
+}
